@@ -1,4 +1,4 @@
-# Oled_display_raspberrypi_stat
+# Oled display raspberrypi stat
 Come collegare un display oled 128x64 al raspberry per visualizzare le info
 
 # Per prima cosa abilitiamo il protocollo i2c del raspberry
