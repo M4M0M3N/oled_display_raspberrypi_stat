@@ -11,6 +11,12 @@ attivare i2c
 Riavviare il rasp
 > sudo reboot
 
+# Collegamento elettrico
+Collegare il display come in foto.
+Bisogna alimentare il display a 3.3v e non 5v
+
+![schema elettrico](https://github.com/M4M0M3N/oled_display_raspberrypi_stat/blob/main/immagini/schema_elettrico.png?raw=true)
+
 # Installare le librerie e copiare i file
 Crea una nuova cartella per tenere i file ordinati, la mia si chiamerà oled_display
 > mkdir oled_display
