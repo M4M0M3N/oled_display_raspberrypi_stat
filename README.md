@@ -5,7 +5,7 @@ Come collegare un display oled 128x64 al raspberry per visualizzare le info
 
 # Per prima cosa abilitiamo il protocollo i2c del raspberry
 Andare in raspi-config
-> sudo raspi-confid
+> sudo raspi-config
 
 Entrare in Interface Option
 attivare i2c
@@ -53,7 +53,7 @@ Probabilmente queste librerie sono gia installate, ma meglio controllare
 
 > sudo apt install -y python3-setuptools 
 
-> sudo apt install -y python3- rpi.gpio
+> sudo apt install -y python3-rpi.gpio
 
 
 Installaiamo infine, la libreria per far funzionare il display
