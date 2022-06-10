@@ -45,7 +45,8 @@ Installiamo le librerie richieste
 Probabilmente queste librerie sono gia installate, ma meglio controllare
 > sudo apt install -y python3-dev 
 
-> sudo apt install -y python-smbus i2c-tools 
+> sudo apt install -y python-smbus 
+> sudo apt install -y i2c-tools 
 
 > sudo apt install -y python3-pil 
 
