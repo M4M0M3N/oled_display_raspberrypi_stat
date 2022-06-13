@@ -1,5 +1,7 @@
 # Oled display raspberrypi stat
 Come collegare un display oled 128x64 al raspberry per visualizzare le info
+Ho eseguito questa guida usando la versione 10 di raspbian.
+La guida funziona anche su retropie
 
 ![Anteprima](https://github.com/M4M0M3N/oled_display_raspberrypi_stat/blob/main/immagini/gif.gif?raw=true)
 
